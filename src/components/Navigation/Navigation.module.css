@@ -1,0 +1,8 @@
+.list {
+  display: flex;
+  gap: 40px;
+}
+
+.navLink {
+  padding: 20px 0px;
+}
