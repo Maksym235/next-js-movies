@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  gap: 40px;
+}
+
+.list_item {
+  padding: 20px 0px;
+}
+
+.navLink {
+  color: #000;
+}
+
+.active {
+  color: orangered;
+  padding: 20px 0px;
+}
